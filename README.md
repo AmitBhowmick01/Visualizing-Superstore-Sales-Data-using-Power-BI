@@ -2,6 +2,10 @@
 
 This is a repository for a project on visualizing sales data of a superstore using Power BI. In this project, we analyze and visualize the sales data of a superstore to gain insights and make data-driven decisions.
 
+![Superstore_Dataset](https://user-images.githubusercontent.com/126709893/236577852-3c9720b4-ada1-4a11-9516-24fe56bcb146.jpg)
+
+
+
 ## Dataset
 
 The dataset used in this project is the Superstore dataset, which can be found on Kaggle. The dataset contains sales data of a superstore from 2014 to 2017, including information such as order date, region, category, sub-category, sales, profit, and more.
